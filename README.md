@@ -1,2 +1,3 @@
 # apnacollege-demo
-This is my first Git Repository. <br> Author- Tayyab Saleem
+This is my first Git Repository. <br> Author- Tayyab Saleem(apnacollege)
+
